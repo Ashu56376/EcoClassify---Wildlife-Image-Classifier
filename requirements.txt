@@ -13,7 +13,8 @@ requests
 seaborn
 streamlit
 PyYAML
-joblib
+joblibcd C:\Users\theas\Desktop\EcoClassify---Wildlife-Image-Classifier
+
 dvc
 python-box
 ensure
