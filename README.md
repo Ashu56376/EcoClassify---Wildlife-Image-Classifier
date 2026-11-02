@@ -374,13 +374,7 @@ dataset.zip
 
 ## ❤️ Acknowledgements  
 
-- The Pan African Programme: The Cultured Chimpanzee, Wild Chimpanzee Foundation, DrivenData. (2022). Conser-vision Practice Area: Image Classification. Retrieved [July 12 2025] from https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/. 
-- Mentorship: **Sudhanshu Kumar (Euron)**  
-- Frameworks: PyTorch, Streamlit, MLflow, TorchCAM  
-
----
-
-## 📜 License  
+- The Pan African Programme: The Cultured Chimpanzee, Wild Chimpanzee Foundation, DrivenData. (2022). Conser-vision Practice Area: Image Classification. Retrieved [July 12 2025] from https://www.drivendata.org/competitions/87/competition-ima
 
 Apache 2.0 License © 2025 Santosh Kumar Guntupalli  
 
