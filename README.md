@@ -24,7 +24,7 @@ It includes **model explainability (Grad-CAM)**, **batch inference**, **fine-tun
 
 🔗 **Live Demo on Hugging Face**: [![Hugging Face Spaces](https://img.shields.io/badge/Launch%20App-HuggingFace-orange?logo=huggingface)](https://huggingface.co/spaces/santosh3110/Ecoclassify-Wildlife_Classifier)
 
----
+
 
 ## 📸 App Screenshots  
 
